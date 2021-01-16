@@ -1,5 +1,6 @@
-##### Read input from user on shell
-```#!/bin/bash
+##### Read input from user on shell -01
+```html
+#!/bin/bash
 printf "what do you get 6*7 ?"<br />
 read answer<br />
   if test "$answer" = "42"; then <br />
