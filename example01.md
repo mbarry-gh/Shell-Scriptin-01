@@ -1,11 +1,11 @@
-##### Read input from user on shell -01
+##### 01-Read input from user on shell
 ```html
 #!/bin/bash
-printf "what do you get 6*7 ?"<br />
-read answer<br />
-  if test "$answer" = "42"; then <br />
-    echo "You are correct" <br />
-  else <br />
-    echo "You are wrong" <br />
-  fi <br />```
+printf "what do you get 6*7 ?"
+read answer
+  if test "$answer" = "42"; then
+    echo "You are correct"
+  else
+    echo "You are wrong"
+  fi```
 
