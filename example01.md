@@ -21,3 +21,4 @@ case $input in
 esac
 ```
 
+##### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  if test -f "$file"; then echo "$file exists." ; fi
