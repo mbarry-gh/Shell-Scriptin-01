@@ -36,3 +36,16 @@ exit 0
 # A zero return value from the script upon exit
 #+ indicates success to the shell.
 ```
+
+##### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) sha−bang ( #!)
+
+The sha−bang ( #!) at the head of a script, This is the path to the program that interprets the commands in the script, whether it be a shell, a programming language, or a utility. This command interpreter then executes the commands in the script, starting at the top :
+
+```html
+#!/bin/sh
+#!/bin/bash
+#!/usr/bin/perl
+#!/usr/bin/tcl
+#!/bin/sed −f
+#!/usr/awk −f
+```
